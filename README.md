@@ -2,7 +2,7 @@
 Hướng dẫn thiết kế tạo mẫu thẻ cá nhân thông mình bằng Python
 
 ''''
-HƯỚNG DẪN TẠO THẺ  "ANH TAP" MIỄN PHÍ BẰNG PYTHON
+HƯỚNG DẪN TẠO THẺ  "PY/ANH TAP" MIỄN PHÍ BẰNG PYTHON
 
 - Bước đầu tiên: vào trang https://www.canva.com/, gõ từ 
 "professional business cards"  để chọn mẫu thẻ bạn muốn, 
